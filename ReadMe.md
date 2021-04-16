@@ -79,6 +79,6 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=triads-moderation.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=triads-moderation&theme=material-palenight" />
 
 </a>
