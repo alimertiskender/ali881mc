@@ -52,7 +52,7 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/ali881mc/github-readme-stats)*
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
@@ -60,11 +60,11 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
 </a>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ali881mc/github-readme-stats">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ali881mc&layout=compact&theme=material-palenight" />
 
 </a>
 
@@ -72,7 +72,7 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=github-readme-stats&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=astrid-bot&theme=material-palenight" />
 
 </a>    
 
@@ -80,6 +80,6 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=ali881mc.github.io&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=triads-moderation.github.io&theme=material-palenight" />
 
 </a>
