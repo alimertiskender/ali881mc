@@ -10,7 +10,7 @@
 
 
 
-<a href="https://discord.gg/VK4k3Br">
+<a href="https://discord.gg/g9pFShDDqj">
 
   <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 
