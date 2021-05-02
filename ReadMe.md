@@ -22,7 +22,7 @@
 
 Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turkey.
 
-- 🔭 I’m currently working on [astrid bot](https://github.com/ali881mc/astrid-bot)
+- 🔭 I’m currently working on [AliBot](https://github.com/ali881mc/AliBot)
 
 - 🌱 I’m currently learning Javascript
 
@@ -71,7 +71,7 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=astrid-bot&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=Disc12&theme=material-palenight" />
 
 </a>    
 
