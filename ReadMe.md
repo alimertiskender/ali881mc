@@ -22,7 +22,7 @@
 
 Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turkey.
 
-- 🔭 I’m currently working on [AliBot](https://github.com/ali881mc/AliBot)
+- 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/AliBot)
 
 - 🌱 I’m currently learning Javascript
 
