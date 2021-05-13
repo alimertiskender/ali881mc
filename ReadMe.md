@@ -22,7 +22,7 @@
 
 Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turkey.
 
-- 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/AliBot)
+- 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/latifa)
 
 - 🌱 I’m currently learning Javascript
 
@@ -71,7 +71,7 @@ Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turke
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=disc12&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=latifa&theme=material-palenight" />
 
 </a>    
 
