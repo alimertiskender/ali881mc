@@ -12,7 +12,9 @@
 
 <a href="https://discord.gg/user/417302173056237568">
 
-  <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/ali881mc/ali881mc/master/assets/discord-round.svg" />
+  <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra
+
+/anuraghazra/master/assets/discord-round.svg" />
 
 </a>
 
