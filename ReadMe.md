@@ -10,7 +10,7 @@
 
 
 
-<a href="https://discord.gg/g9pFShDDqj">
+<a href="https://discord.gg/user/417302173056237568">
 
   <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg" />
 
@@ -20,7 +20,7 @@
 
 <br />
 
-Hi, I'm Ali Mert İskender, a passionate self-taught JavaScript lover from Turkey.
+Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
 - 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/latifa)
 
