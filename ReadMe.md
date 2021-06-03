@@ -1,20 +1,8 @@
 ### Hi there, I'm [Ali!](https://ali881mc.github.io) 👋
 
-
-
-
-
-
-
-
-
-
-
 <a href="https://discord.gg/user/417302173056237568">
 
-  <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra
-
-/anuraghazra/master/assets/discord-round.svg">
+  <img align="left" alt="Ali's Discord" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/discord-round.svg">
 
 </a>
 
@@ -27,8 +15,6 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 - 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/latifa)
 
 - 🌱 I’m currently learning Javascript
-
-
 
 - 💬 Ask me about anything [here](https://github.com/ali881mc/ali881mc/issues)
 
@@ -53,7 +39,6 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 --->
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
 
