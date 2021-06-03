@@ -40,7 +40,7 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
 <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/ali881mc/Latifa">
 
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ali881mc&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Ali's github stats" />
 
