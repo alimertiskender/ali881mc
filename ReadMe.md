@@ -12,7 +12,7 @@
 
 Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
-- 🔭 I’m currently working on [Latifa](https://github.com/ali881mc/latifa)
+- 🔭 I’m currently working on [Sentor](https://github.com/ali881mc/sentor)
 
 - 🌱 I’m currently learning Javascript
 
