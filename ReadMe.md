@@ -58,7 +58,7 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=latifa&theme=material-palenight" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ali881mc&repo=sentor&theme=material-palenight" />
 
 </a>    
 
