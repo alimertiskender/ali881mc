@@ -54,7 +54,7 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
 </a>
 
-![Views](https://komarev.com/ghpvc/?username=OguzhanUmutlu&label=Total%20Profile%20Views&color=f76394&style=flat)
+![Views](https://komarev.com/ghpvc/?username=ali881mc&label=Total%20Profile%20Views&color=f76394&style=flat)
 
 <a href="https://github.com/ali881mc/github-readme-stats">
 
