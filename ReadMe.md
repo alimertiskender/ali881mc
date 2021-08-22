@@ -54,6 +54,8 @@ Hi, I'm Ali Mert, a passionate self-taught JavaScript lover from Turkey.
 
 </a>
 
+![Views](https://komarev.com/ghpvc/?username=OguzhanUmutlu&label=Total%20Profile%20Views&color=f76394&style=flat)
+
 <a href="https://github.com/ali881mc/github-readme-stats">
 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
